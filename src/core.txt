@@ -6,3 +6,4 @@ Zero-allocation Zig library for ANSI terminal control: colors, styling, cursor,
 # avoid re-reading the config on every call
 # guard against empty input
 # drop an unused branch
+# guard against empty input
